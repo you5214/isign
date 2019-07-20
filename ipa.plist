@@ -25,9 +25,9 @@
 <key>kind</key>
 <string>display-image</string>
 <key>needs-shine</key>
-<false/>
+<true/>
 <key>url</key>
-<string/>
+<string>http://images.protrack365.com/apps/138116/2_20190321162126_138116_app1024x1024.png<string/>
 </dict>
 </array>
 <key>metadata</key>
@@ -39,9 +39,9 @@
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>339ÓéÀÖ</string>
+<string>天天趣彩</string>
 <key>title</key>
-<string>339ÓéÀÖ</string>
+<string>天天趣彩</string>
 </dict>
 </dict>
 </array>
