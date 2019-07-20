@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://raw.githubusercontent.com/you5214/isign/master/ipa.plist</string>
+<string>https://github.com/you5214/isign/blob/master/igps.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,9 +25,9 @@
 <key>kind</key>
 <string>display-image</string>
 <key>needs-shine</key>
-<true/>
+<false/>
 <key>url</key>
-<string>http://images.protrack365.com/apps/138116/2_20190321162126_138116_app1024x1024.png<string/>
+<string/>
 </dict>
 </array>
 <key>metadata</key>
@@ -39,9 +39,9 @@
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>tiantiancaipiao</string>
+<string>339</string>
 <key>title</key>
-<string>tiantiancaipiao</string>
+<string>339</string>
 </dict>
 </dict>
 </array>
