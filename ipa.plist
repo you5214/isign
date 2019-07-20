@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://github.com/you5214/isign/blob/master/igps.ipa</string>
+<string>https://raw.githubusercontent.com/you5214/isign/master/ipa.plist</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -39,9 +39,9 @@
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>天天趣彩</string>
+<string>tiantiancaipiao</string>
 <key>title</key>
-<string>天天趣彩</string>
+<string>tiantiancaipiao</string>
 </dict>
 </dict>
 </array>
